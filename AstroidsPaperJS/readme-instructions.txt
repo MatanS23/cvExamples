@@ -7,6 +7,6 @@ The game mechanics are clunky and need work.
 
 Keybinds:
 Accelerate forward - Up arrowkey
-Decelerate/Accelerate backwards - Down arrowkey
+Decelerate - Down arrowkey
 Adjusting direction - Right/Left arrowkey
 Shooting - Space bar
