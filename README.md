@@ -1,5 +1,8 @@
-Hello to whomever reading it and welcome to my cvExample page.
+Hey,
 
-I use it primarily for my CV, but it's also a show-case for my personal projects I created over time.
+This was developed in 2020 as the final project for an university course I took for JavaScript.
 
-Thank you for taking your time to visit and look at my projects.
+~Live Server extension in visual studio code is needed for the game to work~
+
+I never managed to make my initial idea to work and eventually due to the deadline, I had to submit an incomplete project.
+
