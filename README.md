@@ -1,5 +1,3 @@
-Hey,
-
 This was developed in 2020 as the final project for an university course I took for JavaScript.
 
 Live Server extension in visual studio code is needed for the game to work.
