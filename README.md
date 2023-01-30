@@ -1,5 +1,8 @@
-Hello to whomever reading it and welcome to my cvExample page.
+This game was made during a game jam (a competition to make a game from 0 to a playable prototype with limited time).
 
-I use it primarily for my CV, but it's also a show-case for my personal projects I created over time.
+This game was made using Unity game engine and C# programming language.
 
-Thank you for taking your time to visit and look at my projects.
+I made by myself all of the assests in the game including art and soundtrack.
+
+Link to itch.io (currently there is only downloadable version):
+https://xsemicolonx.itch.io/dimensionwalk
